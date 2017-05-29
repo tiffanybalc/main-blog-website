@@ -13,8 +13,10 @@ head {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f1f1f1;
   text-align: center;
+  background-image: url("IMG_2198.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 div {
@@ -26,11 +28,8 @@ li {
 }
 
 .Meet-Tiffany {
-  background-image: url("IMG_2198.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 60% 50%;
-  height: 400px;
+  background-color: DarkSlateGray;
+  height: 200px;
 }
 
 h1 {
