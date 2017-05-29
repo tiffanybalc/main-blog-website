@@ -44,8 +44,11 @@ h1 {
   font-weight: 700;
 }
 
-li {
+ul {
   list-style-type: none;
+  padding-left:0;
+}
+li {
   display: inline-block;
 }
 
