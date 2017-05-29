@@ -17,6 +17,7 @@ body {
 }
 
 div {
+  margin: 60px auto;
   border: 2px solid;
   border-color: rgba(255,255,255,0.9);
   width: 90%;
