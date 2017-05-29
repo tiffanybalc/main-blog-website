@@ -18,6 +18,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 60% 50%;
+  position: center;
 }
 
 div {
@@ -41,7 +42,6 @@ h1 {
   color: White;
   font-size: 50px;
   font-weight: 700;
-  text-align: top center;
 }
 
 li {
@@ -69,5 +69,6 @@ p1 {
 }
 
 footer {
+  color: white;
   text-align: center center;
 }
