@@ -7,10 +7,6 @@ a:hover, a:active {
   color: #2b506e;
 }
 
-head {
-  Display: Block;
-}
-
 body {
   font-family: 'Arial', sans-serif;
   text-align: center;
@@ -24,10 +20,6 @@ div {
   border-style: solid;
 }
 
-li {
-  list-style-type: none;
-}
-
 .Meet-Tiffany {
   background-color: LightSlateGray;
   height: 100px;
@@ -38,6 +30,10 @@ h1 {
   font-family: 'Ruda', sans-serif;
   font-size: 50px;
   font-weight: 700;
+}
+
+li {
+  list-style-type: none;
 }
 
 .social-media {
