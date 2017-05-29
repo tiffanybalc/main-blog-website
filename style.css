@@ -29,6 +29,7 @@ li {
   background-image: url("IMG_2199.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 60% 50%;
   height: 400px;
 }
 
