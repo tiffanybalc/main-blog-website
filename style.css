@@ -19,8 +19,8 @@ body {
 div {
   border: 2px solid;
   width: 90%;
-  position: center;
-  background-color: rgba(255,255,255,0.6);
+  position: center center;
+  background-color: rgba(255,255,255,0.9);
 }
 
 .Meet-Tiffany {
@@ -33,7 +33,7 @@ h1 {
   font-family: 'Ruda', sans-serif;
   font-size: 50px;
   font-weight: 700;
-  position: center;
+  position: center center;
 }
 
 li {
