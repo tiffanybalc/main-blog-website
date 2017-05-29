@@ -22,7 +22,6 @@ body {
 }
 
 .Meet-Tiffany {
-  margin: 0px auto;
   background-color: #d2d2d2;
   height: 90px;
   width: 100%;
@@ -73,5 +72,5 @@ p1 {
 }
 
 footer {
-  color: white;
+  color: Pink;
 }
