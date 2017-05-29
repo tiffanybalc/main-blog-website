@@ -28,7 +28,7 @@ li {
 .Meet-Tiffany {
   background-image: url("IMG_2199.jpg");
   background-position: center;
-  width: 100%;
+  background-repeat: no-repeat;
   height: 400px;
 }
 
