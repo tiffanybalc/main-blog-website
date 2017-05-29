@@ -1,5 +1,6 @@
-* {
-font-family: 'Georgia', serif;
+body {
+  font-family: 'Georgia', serif
+  text-align: center;
 }
 h1 {
   color: Grey;
