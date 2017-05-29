@@ -15,6 +15,7 @@ a:hover, a:active {
 body {
   font-family: 'Ruda', 'Arial', sans-serif;
   background-image: url('tiffanybalc.github.io/Pictures/IMG_2198.jpg');
+  background: linear-gradient(to bottom, #80aaff 0%, #ffffff 100%);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 60% 50%;
