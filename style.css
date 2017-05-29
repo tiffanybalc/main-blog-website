@@ -1,9 +1,9 @@
 body {
-  font-family: 'Georgia', serif
+  font-family: 'Times', serif
   overflow: hidden;
 }
 .social-media {
-  color: Grey
+  color: LightSlateGray
     text-align: center;
 }
 .social-media ul {
@@ -12,5 +12,5 @@ body {
   width: 100%;
 }
 .pictures {
-  color: #ffff;
+  color: SlateGray;
 }
