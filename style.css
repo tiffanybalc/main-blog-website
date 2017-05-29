@@ -3,6 +3,10 @@ body {
     text: center;
 }
 
+div {
+  border-style: solid;
+}
+
 .social-media {
   color: LightSlateGray;
 }
