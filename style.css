@@ -25,7 +25,7 @@ div {
 
 .Meet-Tiffany {
   background-color: LightSlateGray;
-  height: 100px;
+  height: 90px;
 }
 
 h1 {
@@ -33,6 +33,7 @@ h1 {
   font-family: 'Ruda', sans-serif;
   font-size: 50px;
   font-weight: 700;
+  position: center;
 }
 
 li {
