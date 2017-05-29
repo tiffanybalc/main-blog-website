@@ -28,7 +28,7 @@ body {
   text-align: center center;
 }
 
-.social-media, .pictures, .education {
+.bubble {
   margin: 30px auto;
   padding: 10px 0px 10px 0px
   border: 2px solid;
@@ -48,6 +48,7 @@ ul {
   list-style-type: none;
   padding-left:0;
 }
+
 li {
   display: inline-block;
 }
