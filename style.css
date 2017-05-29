@@ -9,7 +9,7 @@ body {
 .social-media ul {
   padding: 0
   display: inline-block
-  width: 100%;
+  width: 100px;
 }
 .pictures {
   color: SlateGray;
