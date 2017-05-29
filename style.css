@@ -18,8 +18,9 @@ body {
 
 div {
   border: 2px solid;
+  border-color: transparent;
   width: 90%;
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(255,255,255,0.8);
 }
 
 .Meet-Tiffany {
