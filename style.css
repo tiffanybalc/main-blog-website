@@ -7,15 +7,21 @@ div {
   border-style: solid;
 }
 
-.social-media {
-  color: LightSlateGray;
+.header {
+  color: DarkSlateGray;
 }
 
-.social-media ul {
+.social-media {
+  color: LightSlateGray
   padding: 0;
 }
 
 .pictures {
+  color: SlateGray
+  size: 50%;
+}
+
+.education {
   color: SlateGray
   size: 50%;
 }
