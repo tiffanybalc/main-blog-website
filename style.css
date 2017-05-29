@@ -11,13 +11,10 @@ head {
   Display: Block;
 }
 
-box {
-  position: center;
-}
-
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #d1dffa;
+  background-color: #f2f2f2;
+  position: center;
 }
 
 div {
