@@ -1,16 +1,16 @@
 body {
-  font-family: 'Times', serif
-  overflow: hidden;
+  font-family: 'Arial', sans-serif
+    text: center;
 }
+
 .social-media {
-  color: LightSlateGray
-    text-align: center;
+  color: LightSlateGray;
 }
+
 .social-media ul {
-  padding: 0
-  display: inline-block
-  width: 100px;
+  padding: 0;
 }
+
 .pictures {
   color: SlateGray;
 }
