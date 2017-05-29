@@ -1,9 +1,15 @@
 body {
   font-family: 'Georgia', serif
-  position: center;
+  overflow: hidden;
 }
 .social-media {
-  color: Grey;
+  color: Grey
+    text-align: center;
+}
+.social-media ul {
+  padding: 0
+  display: inline-block
+  width: 100%;
 }
 .pictures {
   color: green;
