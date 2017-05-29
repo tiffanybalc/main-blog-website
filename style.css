@@ -12,5 +12,6 @@ body {
 }
 
 .pictures {
-  color: SlateGray;
+  color: SlateGray
+  size: 50%;
 }
