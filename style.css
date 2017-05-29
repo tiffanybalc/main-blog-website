@@ -4,12 +4,15 @@ head {
 
 body {
   font-family: 'Arial', sans-serif;
-    text: center;
   background-color: LightBlue;
 }
 
 div {
   border-style: solid;
+}
+
+ul {
+  list-style-type: none;
 }
 
 .header {
