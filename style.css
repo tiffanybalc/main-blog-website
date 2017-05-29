@@ -1,5 +1,10 @@
-a, a:visited {
-  color: Lime;
+a {
+  color: DarkBlue;
+  transition: color 0.1s ease-in-out;
+}
+
+a:visited {
+  color: Blue;
   transition: color 0.1s ease-in-out;
 }
 
@@ -44,6 +49,7 @@ li {
 .social-media {
   color: DarkSlateGray;
   padding: 0;
+  transition: color 0.1s ease-in-out;
 }
 
 .pictures {
