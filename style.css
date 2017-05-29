@@ -21,7 +21,14 @@ body {
   text-align: center;
 }
 
-div {
+.Meet-Tiffany {
+  margin: 10px auto;
+  background-color: #d2d2d2;
+  height: 90px;
+  text-align: center center;
+}
+
+.social-media .pictures .education {
   margin: 30px auto;
   padding: 10px 0px 10px 0px
   border: 2px solid;
@@ -29,13 +36,6 @@ div {
   border-radius: 15px;
   width: 90%;
   background-color: rgba(255,255,255,0.8);
-}
-
-.Meet-Tiffany {
-  margin: 10px auto;
-  background-color: #d2d2d2;
-  height: 90px;
-  text-align: center center;
 }
 
 h1 {
