@@ -14,9 +14,10 @@ a:hover, a:active {
 
 body {
   font-family: 'Ruda', 'Arial', sans-serif;
-  background: linear-gradient(to bottom, #80aaff 0%, #ffffff 100%);
+  background-image: url('tiffanybalc.github.io/Pictures/IMG_2198.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 60% 50%;
   text-align: center;
 }
 
@@ -59,7 +60,7 @@ p1 {
 
 .social-media {
   padding: 0;
-  transition: color 0.1s ease-in-out;
+  height: 150px;
 }
 
 .pictures {
