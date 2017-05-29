@@ -13,8 +13,8 @@ head {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f2f2f2;
-  position: center;
+  background-color: #f1f1f1;
+  text-align: center;
 }
 
 div {
@@ -45,5 +45,5 @@ li {
 }
 
 footer {
-  font-size: 50%
+  text-align: right;
 }
