@@ -11,6 +11,7 @@ body {
   font-family: 'Arial', sans-serif;
   text-align: center;
   background-image: url("pictures/IMG_2198.jpg");
+  background-color: #f2f2f2;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 60% 50%;
@@ -23,7 +24,7 @@ div {
 }
 
 .Meet-Tiffany {
-  background-color: LightSlateGray;
+  background-color: #e2e2e2;
   height: 90px;
 }
 
@@ -39,12 +40,11 @@ li {
 }
 
 .social-media {
-  color: LightSlateGray;
+  color: DarkSlateGray;
   padding: 0;
 }
 
 .pictures {
-  color: SlateGray;
   size: 50%;
 }
 
