@@ -28,6 +28,7 @@ li {
 .Meet-Tiffany {
   color: DarkSlateGray;
   background-image: url("IMG_2199.jpg");
+  background-position: center;
   width: 100%;
   height: 400px;
 }
