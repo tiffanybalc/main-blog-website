@@ -1,7 +1,7 @@
 body {
-  font-family: 'Arial', sans-serif
+  font-family: 'Arial', sans-serif;
     text: center;
-  background-color: Navy;
+  background-color: LightBlue;
 }
 
 div {
@@ -13,16 +13,16 @@ div {
 }
 
 .social-media {
-  color: LightSlateGray
+  color: LightSlateGray;
   padding: 0;
 }
 
 .pictures {
-  color: SlateGray
+  color: SlateGray;
   size: 50%;
 }
 
 .education {
-  color: SlateGray
+  color: SlateGray;
   size: 20%;
 }
