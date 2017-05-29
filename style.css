@@ -1,10 +1,10 @@
 a, a:visited {
-  color: #90D4C5;
+  color: SteelBlue;
   transition: color 0.1s ease-in-out;
 }
 
 a:hover, a:active {
-  color: Black;
+  color: #2b506e;
 }
 
 head {
@@ -13,7 +13,7 @@ head {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: LightBlue;
+  background-color: #d1dffa;
 }
 
 div {
