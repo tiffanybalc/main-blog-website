@@ -1,3 +1,7 @@
+head {
+  Display: Block;
+}
+
 body {
   font-family: 'Arial', sans-serif;
     text: center;
