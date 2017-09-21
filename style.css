@@ -21,6 +21,10 @@ body {
   text-align: center;
 }
 
+.container {
+  border-color: rgba(255, 255, 255, 0.9);
+}
+
 .main {
   background-color: #d2d2d2;
   height: 90px;
@@ -31,15 +35,20 @@ body {
 .bubble {
   padding: 10px 0px 10px 0px
   border: 2px solid;
-  border-color: rgba(255,255,255,0.9);
   border-radius: 15px;
   background-color: rgba(255,255,255,0.8);
 }
 
+#header {
+      color: white;
+      font-weight: 700;
+      background-color: rgb(210, 210, 210);
+}
+
 h1 {
-  color: White;
-  font-size: 50px;
-  font-weight: 700;
+  font-family: 'Bodoni 72', 'Bodoni', serif;
+  text-transform: uppercase;
+  font-size: 40px;
 }
 
 ul {
